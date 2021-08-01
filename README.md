@@ -1,8 +1,8 @@
 <div align="center">
-<img width="100%" height = "350px" src="https://i.ibb.co/ky9vtRR/banner.png" alt="cover" />
+<img width="100%" height = "100%" src="https://i.ibb.co/ky9vtRR/banner.png" alt="cover" />
 </div>
 
-<h1>Hola! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1>Hola! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=brayanrojasweb.brayanrojasweb)
